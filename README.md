@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200px" alt="Gif animado"/>
 
-# <code><strong> Gerenciador de Calendário</strong></code>
+# <code><strong>Calendário de eventos</strong></code>
 
-<em>Trabalho da disciplina de Algoritmos e Programação</em>
+<em>Trabalho da disciplina de Linguagem de Programação</em>
 
 [![C Usage](https://img.shields.io/badge/C-100%25-blue?style=for-the-badge&logo=c)]()
 [![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)]()
